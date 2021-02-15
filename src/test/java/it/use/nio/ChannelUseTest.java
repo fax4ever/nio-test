@@ -11,9 +11,4 @@ public class ChannelUseTest {
 		}
 	}
 
-	@Test
-	public void ciao() {
-
-	}
-
 }
